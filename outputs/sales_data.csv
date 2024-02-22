@@ -1,0 +1,801 @@
+Date,Sales,Product Type,City,X,W,Day of Week,Quarter,Holiday,Day After Holiday
+2020-01-01,9669.39172713559,Hotdog,Springville,18.0,False,Wednesday,1,True,False
+2020-01-02,8365.366830974242,Chocolate Milk,Orem,12.0,False,Thursday,1,False,True
+2020-01-03,6438.2896149411945,Hotdog,Springville,20.0,False,Friday,1,False,False
+2020-01-04,5277.277671749395,Hotdog,Springville,14.0,True,Saturday,1,False,False
+2020-01-05,5536.642020747566,Cougartail,Orem,18.0,False,Sunday,1,False,False
+2020-01-06,9308.792826085719,Hotdog,Provo,21.0,False,Monday,1,False,False
+2020-01-07,6315.401050668039,Hotdog,Orem,11.0,False,Tuesday,1,False,False
+2020-01-08,7039.570051170659,Chocolate Milk,Orem,21.0,True,Wednesday,1,False,False
+2020-01-09,4769.775148159102,Hotdog,Springville,22.0,True,Thursday,1,False,False
+2020-01-10,2487.3247226967683,Chocolate Milk,Springville,14.0,True,Friday,1,False,False
+2020-01-11,10132.785320374587,Hotdog,Provo,18.0,False,Saturday,1,False,False
+2020-01-12,5340.981914142713,Chocolate Milk,Provo,11.0,False,Sunday,1,False,False
+2020-01-13,9332.335227036716,Cougartail,Provo,28.0,False,Monday,1,False,False
+2020-01-14,4843.221845733619,Chocolate Milk,Springville,22.0,False,Tuesday,1,False,False
+2020-01-15,7108.9426947779475,Hotdog,Provo,19.0,False,Wednesday,1,False,False
+2020-01-16,7438.629437057229,Chocolate Milk,Orem,19.0,False,Thursday,1,False,False
+2020-01-17,7377.906183597582,Cougartail,Orem,26.0,True,Friday,1,False,False
+2020-01-18,6430.517853113599,Hotdog,Provo,20.0,False,Saturday,1,False,False
+2020-01-19,7044.140191958281,Cougartail,Provo,22.0,True,Sunday,1,False,False
+2020-01-20,14369.954843363314,Chocolate Milk,Orem,28.0,False,Monday,1,True,False
+2020-01-21,6010.883448805591,Hotdog,Provo,19.0,True,Tuesday,1,False,True
+2020-01-22,6090.524110278069,Chocolate Milk,Springville,15.0,False,Wednesday,1,False,False
+2020-01-23,3678.380634214844,Cougartail,Springville,16.0,False,Thursday,1,False,False
+2020-01-24,11585.958392706492,Cougartail,Orem,27.0,True,Friday,1,False,False
+2020-01-25,5911.601565417203,Cougartail,Springville,21.0,False,Saturday,1,False,False
+2020-01-26,4428.049467070567,Cougartail,Springville,18.0,True,Sunday,1,False,False
+2020-01-27,7078.400665313804,Chocolate Milk,Springville,25.0,True,Monday,1,False,False
+2020-01-28,5596.576826163995,Hotdog,Springville,25.0,False,Tuesday,1,False,False
+2020-01-29,5095.166282681028,Cougartail,Provo,18.0,False,Wednesday,1,False,False
+2020-01-30,4231.656335427116,Hotdog,Springville,16.0,False,Thursday,1,False,False
+2020-01-31,5188.868993005621,Cougartail,Orem,13.0,False,Friday,1,False,False
+2020-02-01,5686.886880862075,Cougartail,Provo,11.0,False,Saturday,1,False,False
+2020-02-02,12235.655697323558,Chocolate Milk,Orem,19.0,False,Sunday,1,False,False
+2020-02-03,4145.825063506282,Cougartail,Springville,16.0,False,Monday,1,False,False
+2020-02-04,12203.773639444194,Chocolate Milk,Provo,30.0,False,Tuesday,1,False,False
+2020-02-05,8372.159061154027,Cougartail,Provo,21.0,False,Wednesday,1,False,False
+2020-02-06,1653.5369878880006,Cougartail,Provo,11.0,False,Thursday,1,False,False
+2020-02-07,5954.235370408848,Cougartail,Springville,28.0,True,Friday,1,False,False
+2020-02-08,8418.125998514757,Hotdog,Orem,21.0,True,Saturday,1,False,False
+2020-02-09,5787.677435791793,Chocolate Milk,Provo,24.0,True,Sunday,1,False,False
+2020-02-10,7879.545617503491,Chocolate Milk,Orem,24.0,True,Monday,1,False,False
+2020-02-11,4282.647625180623,Hotdog,Orem,22.0,False,Tuesday,1,False,False
+2020-02-12,8659.303234489875,Hotdog,Provo,23.0,False,Wednesday,1,False,False
+2020-02-13,2939.49888161012,Hotdog,Springville,22.0,True,Thursday,1,False,False
+2020-02-14,3813.9847868785614,Chocolate Milk,Springville,15.0,False,Friday,1,False,False
+2020-02-15,10633.407374590777,Cougartail,Orem,22.0,False,Saturday,1,False,False
+2020-02-16,4687.182337694668,Cougartail,Provo,26.0,True,Sunday,1,False,False
+2020-02-17,15759.739918202768,Hotdog,Orem,20.0,False,Monday,1,True,False
+2020-02-18,9441.236930665345,Chocolate Milk,Orem,23.0,True,Tuesday,1,False,True
+2020-02-19,4164.819477342245,Cougartail,Springville,23.0,True,Wednesday,1,False,False
+2020-02-20,9415.195152433265,Hotdog,Springville,30.0,True,Thursday,1,False,False
+2020-02-21,5848.00172706267,Hotdog,Springville,19.0,False,Friday,1,False,False
+2020-02-22,8982.289121819185,Hotdog,Provo,19.0,False,Saturday,1,False,False
+2020-02-23,5940.307144565248,Hotdog,Provo,20.0,True,Sunday,1,False,False
+2020-02-24,6397.092965457268,Chocolate Milk,Provo,20.0,False,Monday,1,False,False
+2020-02-25,3808.355522297305,Hotdog,Provo,9.0,False,Tuesday,1,False,False
+2020-02-26,3452.3408565106856,Cougartail,Springville,17.0,True,Wednesday,1,False,False
+2020-02-27,6604.5881980400245,Chocolate Milk,Orem,22.0,False,Thursday,1,False,False
+2020-02-28,4484.167989076681,Cougartail,Springville,21.0,False,Friday,1,False,False
+2020-02-29,7529.809837784612,Hotdog,Orem,17.0,False,Saturday,1,False,False
+2020-03-01,5904.823764596844,Cougartail,Provo,17.0,False,Sunday,1,False,False
+2020-03-02,6635.178689520124,Hotdog,Provo,19.0,False,Monday,1,False,False
+2020-03-03,9131.87728516191,Chocolate Milk,Springville,17.0,False,Tuesday,1,False,False
+2020-03-04,6201.625738351728,Hotdog,Provo,18.0,False,Wednesday,1,False,False
+2020-03-05,4065.708255789805,Cougartail,Springville,18.0,False,Thursday,1,False,False
+2020-03-06,8486.188199438495,Hotdog,Orem,25.0,False,Friday,1,False,False
+2020-03-07,11282.997090597717,Hotdog,Provo,26.0,True,Saturday,1,False,False
+2020-03-08,8103.5479247157045,Cougartail,Orem,26.0,True,Sunday,1,False,False
+2020-03-09,7126.322018891542,Hotdog,Springville,23.0,False,Monday,1,False,False
+2020-03-10,5474.994882507382,Chocolate Milk,Springville,17.0,False,Tuesday,1,False,False
+2020-03-11,8557.318117047125,Hotdog,Orem,26.0,True,Wednesday,1,False,False
+2020-03-12,7706.557378993676,Chocolate Milk,Provo,19.0,False,Thursday,1,False,False
+2020-03-13,9026.471403043815,Chocolate Milk,Provo,21.0,False,Friday,1,False,False
+2020-03-14,9102.48768591567,Hotdog,Springville,28.0,True,Saturday,1,False,False
+2020-03-15,6572.834761411987,Cougartail,Springville,21.0,False,Sunday,1,False,False
+2020-03-16,5979.857599782382,Cougartail,Springville,22.0,False,Monday,1,False,False
+2020-03-17,1914.765902804905,Chocolate Milk,Provo,14.0,True,Tuesday,1,False,False
+2020-03-18,5649.869995204424,Cougartail,Orem,23.0,True,Wednesday,1,False,False
+2020-03-19,5899.452692953007,Hotdog,Orem,16.0,True,Thursday,1,False,False
+2020-03-20,7476.3988565443815,Chocolate Milk,Provo,26.0,True,Friday,1,False,False
+2020-03-21,6966.813109020098,Chocolate Milk,Orem,20.0,False,Saturday,1,False,False
+2020-03-22,1961.4608406998382,Cougartail,Springville,10.0,False,Sunday,1,False,False
+2020-03-23,6201.873624663616,Chocolate Milk,Orem,19.0,True,Monday,1,False,False
+2020-03-24,5298.73412636574,Chocolate Milk,Springville,20.0,False,Tuesday,1,False,False
+2020-03-25,5905.245138915908,Cougartail,Springville,23.0,False,Wednesday,1,False,False
+2020-03-26,6776.86586719514,Cougartail,Provo,24.0,False,Thursday,1,False,False
+2020-03-27,7669.8668230445855,Chocolate Milk,Orem,19.0,False,Friday,1,False,False
+2020-03-28,8504.279256949776,Hotdog,Orem,26.0,True,Saturday,1,False,False
+2020-03-29,3670.8160014759433,Chocolate Milk,Springville,5.0,False,Sunday,1,False,False
+2020-03-30,6673.144504467833,Chocolate Milk,Provo,18.0,False,Monday,1,False,False
+2020-03-31,5739.745035423326,Chocolate Milk,Provo,16.0,False,Tuesday,1,False,False
+2020-04-01,7871.973794289754,Hotdog,Orem,15.0,False,Wednesday,2,False,False
+2020-04-02,6975.538246582938,Cougartail,Provo,26.0,True,Thursday,2,False,False
+2020-04-03,7798.479746009506,Hotdog,Orem,25.0,True,Friday,2,False,False
+2020-04-04,5592.450410169366,Hotdog,Springville,17.0,True,Saturday,2,False,False
+2020-04-05,11451.799369279648,Chocolate Milk,Springville,27.0,False,Sunday,2,False,False
+2020-04-06,9069.11625022539,Hotdog,Orem,22.0,False,Monday,2,False,False
+2020-04-07,9286.049734317545,Hotdog,Provo,19.0,False,Tuesday,2,False,False
+2020-04-08,9580.645607366065,Chocolate Milk,Springville,18.0,False,Wednesday,2,False,False
+2020-04-09,6290.162846311339,Hotdog,Orem,17.0,False,Thursday,2,False,False
+2020-04-10,4433.107985443527,Cougartail,Springville,24.0,True,Friday,2,False,False
+2020-04-11,9789.086452671205,Hotdog,Orem,25.0,True,Saturday,2,False,False
+2020-04-12,10370.092777074182,Hotdog,Provo,22.0,False,Sunday,2,False,False
+2020-04-13,5674.287016746581,Chocolate Milk,Springville,11.0,False,Monday,2,False,False
+2020-04-14,7554.886734096261,Chocolate Milk,Springville,23.0,False,Tuesday,2,False,False
+2020-04-15,4741.456415234747,Hotdog,Springville,24.0,True,Wednesday,2,False,False
+2020-04-16,7195.045101547754,Hotdog,Provo,18.0,False,Thursday,2,False,False
+2020-04-17,8838.178956353302,Cougartail,Provo,22.0,False,Friday,2,False,False
+2020-04-18,8782.513306058056,Chocolate Milk,Springville,12.0,False,Saturday,2,False,False
+2020-04-19,6765.920847100191,Chocolate Milk,Provo,15.0,False,Sunday,2,False,False
+2020-04-20,6855.006750662961,Cougartail,Provo,20.0,False,Monday,2,False,False
+2020-04-21,4717.355079046647,Chocolate Milk,Orem,20.0,True,Tuesday,2,False,False
+2020-04-22,6312.2028406195495,Cougartail,Orem,23.0,True,Wednesday,2,False,False
+2020-04-23,8498.100970465051,Chocolate Milk,Orem,15.0,False,Thursday,2,False,False
+2020-04-24,9822.103055131503,Hotdog,Springville,20.0,False,Friday,2,False,False
+2020-04-25,11107.1062586391,Hotdog,Orem,19.0,False,Saturday,2,False,False
+2020-04-26,7009.244657558314,Cougartail,Provo,24.0,True,Sunday,2,False,False
+2020-04-27,6231.585277491041,Chocolate Milk,Springville,29.0,True,Monday,2,False,False
+2020-04-28,9464.120426446267,Chocolate Milk,Springville,30.0,True,Tuesday,2,False,False
+2020-04-29,7109.4558469226495,Chocolate Milk,Provo,14.0,False,Wednesday,2,False,False
+2020-04-30,9339.869641534395,Cougartail,Orem,21.0,False,Thursday,2,False,False
+2020-05-01,8779.958727423927,Chocolate Milk,Orem,16.0,False,Friday,2,False,False
+2020-05-02,10366.07303033805,Chocolate Milk,Orem,21.0,False,Saturday,2,False,False
+2020-05-03,9345.81812679421,Cougartail,Springville,24.0,False,Sunday,2,False,False
+2020-05-04,10180.566891692906,Hotdog,Springville,22.0,False,Monday,2,False,False
+2020-05-05,8906.832067564734,Chocolate Milk,Orem,21.0,False,Tuesday,2,False,False
+2020-05-06,8095.597676651989,Hotdog,Orem,29.0,True,Wednesday,2,False,False
+2020-05-07,6594.995118971481,Cougartail,Springville,25.0,False,Thursday,2,False,False
+2020-05-08,8861.874633382804,Chocolate Milk,Provo,20.0,False,Friday,2,False,False
+2020-05-09,6829.395304305016,Cougartail,Provo,22.0,True,Saturday,2,False,False
+2020-05-10,9544.453365552301,Hotdog,Springville,26.0,True,Sunday,2,False,False
+2020-05-11,7887.8635763857355,Cougartail,Orem,25.0,True,Monday,2,False,False
+2020-05-12,5064.185418257406,Cougartail,Orem,20.0,True,Tuesday,2,False,False
+2020-05-13,5745.904934891724,Hotdog,Orem,13.0,False,Wednesday,2,False,False
+2020-05-14,3148.970091488473,Cougartail,Provo,16.0,False,Thursday,2,False,False
+2020-05-15,10298.567830977134,Hotdog,Orem,22.0,False,Friday,2,False,False
+2020-05-16,5841.6306503623055,Chocolate Milk,Provo,13.0,False,Saturday,2,False,False
+2020-05-17,7632.716207497766,Cougartail,Provo,21.0,False,Sunday,2,False,False
+2020-05-18,6067.30367703893,Cougartail,Orem,19.0,False,Monday,2,False,False
+2020-05-19,8681.046442779701,Cougartail,Orem,27.0,True,Tuesday,2,False,False
+2020-05-20,4233.4441786070665,Cougartail,Provo,15.0,False,Wednesday,2,False,False
+2020-05-21,3368.2659663686854,Cougartail,Springville,12.0,False,Thursday,2,False,False
+2020-05-22,9747.135169991197,Cougartail,Provo,20.0,False,Friday,2,False,False
+2020-05-23,9736.61886334194,Chocolate Milk,Provo,25.0,False,Saturday,2,False,False
+2020-05-24,9656.94366960673,Cougartail,Orem,27.0,True,Sunday,2,False,False
+2020-05-25,10434.302998687393,Cougartail,Provo,17.0,False,Monday,2,True,False
+2020-05-26,8322.70150957842,Cougartail,Provo,24.0,False,Tuesday,2,False,True
+2020-05-27,5214.172123490129,Hotdog,Springville,16.0,False,Wednesday,2,False,False
+2020-05-28,3293.234646683096,Hotdog,Provo,18.0,True,Thursday,2,False,False
+2020-05-29,7775.9814388891655,Chocolate Milk,Provo,25.0,False,Friday,2,False,False
+2020-05-30,14784.059432596374,Chocolate Milk,Provo,25.0,False,Saturday,2,False,False
+2020-05-31,4079.031657462206,Cougartail,Springville,17.0,True,Sunday,2,False,False
+2020-06-01,5605.988820479143,Hotdog,Orem,24.0,True,Monday,2,False,False
+2020-06-02,4391.210654649169,Hotdog,Provo,13.0,False,Tuesday,2,False,False
+2020-06-03,10618.136829473504,Chocolate Milk,Orem,21.0,False,Wednesday,2,False,False
+2020-06-04,6808.282485115107,Hotdog,Provo,16.0,False,Thursday,2,False,False
+2020-06-05,10149.889215395855,Hotdog,Orem,18.0,False,Friday,2,False,False
+2020-06-06,5750.947571364046,Cougartail,Springville,16.0,False,Saturday,2,False,False
+2020-06-07,7631.424374712926,Hotdog,Provo,25.0,True,Sunday,2,False,False
+2020-06-08,7711.501861855468,Cougartail,Springville,25.0,False,Monday,2,False,False
+2020-06-09,6807.454390374184,Cougartail,Orem,19.0,True,Tuesday,2,False,False
+2020-06-10,8883.894630708406,Chocolate Milk,Provo,24.0,False,Wednesday,2,False,False
+2020-06-11,10116.720901477333,Hotdog,Provo,23.0,False,Thursday,2,False,False
+2020-06-12,7732.497158487589,Chocolate Milk,Springville,21.0,False,Friday,2,False,False
+2020-06-13,18426.201910941414,Chocolate Milk,Springville,33.0,True,Saturday,2,False,False
+2020-06-14,3242.390704492851,Cougartail,Provo,18.0,True,Sunday,2,False,False
+2020-06-15,10888.577890773635,Chocolate Milk,Orem,22.0,True,Monday,2,False,False
+2020-06-16,6404.03231223087,Chocolate Milk,Orem,20.0,False,Tuesday,2,False,False
+2020-06-17,7609.375347435026,Hotdog,Provo,20.0,True,Wednesday,2,False,False
+2020-06-18,8347.444418750798,Cougartail,Orem,23.0,False,Thursday,2,False,False
+2020-06-19,8415.473111960764,Chocolate Milk,Provo,21.0,False,Friday,2,False,False
+2020-06-20,9270.016521866186,Chocolate Milk,Orem,18.0,False,Saturday,2,False,False
+2020-06-21,4880.071956224514,Cougartail,Springville,23.0,True,Sunday,2,False,False
+2020-06-22,8615.099363827401,Hotdog,Springville,28.0,True,Monday,2,False,False
+2020-06-23,10733.600700931293,Chocolate Milk,Orem,27.0,True,Tuesday,2,False,False
+2020-06-24,6259.270991725655,Chocolate Milk,Springville,23.0,True,Wednesday,2,False,False
+2020-06-25,5290.257678270907,Hotdog,Provo,19.0,True,Thursday,2,False,False
+2020-06-26,7492.028538063566,Chocolate Milk,Springville,23.0,False,Friday,2,False,False
+2020-06-27,10824.936055433043,Hotdog,Provo,28.0,True,Saturday,2,False,False
+2020-06-28,14040.06991411266,Hotdog,Provo,28.0,False,Sunday,2,False,False
+2020-06-29,6229.010410991684,Hotdog,Orem,24.0,True,Monday,2,False,False
+2020-06-30,6433.8647025546825,Chocolate Milk,Springville,20.0,True,Tuesday,2,False,False
+2020-07-01,5533.207276967262,Chocolate Milk,Springville,21.0,True,Wednesday,3,False,False
+2020-07-02,6197.516565763454,Hotdog,Orem,26.0,True,Thursday,3,False,False
+2020-07-03,15347.767056423334,Hotdog,Provo,26.0,True,Friday,3,True,False
+2020-07-04,8213.643885800615,Hotdog,Orem,14.0,False,Saturday,3,False,True
+2020-07-05,12765.409681480613,Chocolate Milk,Orem,26.0,False,Sunday,3,False,False
+2020-07-06,12032.452093166568,Chocolate Milk,Springville,26.0,False,Monday,3,False,False
+2020-07-07,5644.200165715408,Hotdog,Provo,18.0,False,Tuesday,3,False,False
+2020-07-08,8916.18151617025,Hotdog,Provo,19.0,False,Wednesday,3,False,False
+2020-07-09,4227.773053201984,Cougartail,Provo,19.0,True,Thursday,3,False,False
+2020-07-10,7715.8249254863385,Cougartail,Orem,19.0,False,Friday,3,False,False
+2020-07-11,13274.289339516085,Hotdog,Orem,15.0,False,Saturday,3,False,False
+2020-07-12,13222.768280603706,Chocolate Milk,Orem,24.0,True,Sunday,3,False,False
+2020-07-13,7896.429154850129,Hotdog,Orem,18.0,False,Monday,3,False,False
+2020-07-14,7133.507567054014,Hotdog,Provo,22.0,False,Tuesday,3,False,False
+2020-07-15,7615.854396004159,Chocolate Milk,Springville,20.0,False,Wednesday,3,False,False
+2020-07-16,11341.418740119176,Chocolate Milk,Provo,24.0,True,Thursday,3,False,False
+2020-07-17,11446.822866659224,Hotdog,Provo,17.0,False,Friday,3,False,False
+2020-07-18,10644.112259787176,Hotdog,Provo,24.0,False,Saturday,3,False,False
+2020-07-19,12785.919548684216,Chocolate Milk,Provo,24.0,True,Sunday,3,False,False
+2020-07-20,6435.524700247238,Hotdog,Orem,27.0,True,Monday,3,False,False
+2020-07-21,10279.609170587984,Cougartail,Provo,32.0,True,Tuesday,3,False,False
+2020-07-22,4795.563553081652,Cougartail,Provo,12.0,False,Wednesday,3,False,False
+2020-07-23,9009.296234091444,Cougartail,Springville,24.0,False,Thursday,3,False,False
+2020-07-24,5692.939717175097,Cougartail,Provo,19.0,False,Friday,3,False,False
+2020-07-25,7890.555521502041,Chocolate Milk,Springville,13.0,False,Saturday,3,False,False
+2020-07-26,7313.864653096086,Cougartail,Provo,27.0,False,Sunday,3,False,False
+2020-07-27,8687.300874487253,Cougartail,Provo,29.0,False,Monday,3,False,False
+2020-07-28,7803.303234978195,Cougartail,Orem,21.0,False,Tuesday,3,False,False
+2020-07-29,9398.35839084937,Chocolate Milk,Springville,24.0,False,Wednesday,3,False,False
+2020-07-30,14141.897822163373,Hotdog,Provo,22.0,False,Thursday,3,False,False
+2020-07-31,11273.208541381338,Chocolate Milk,Orem,25.0,False,Friday,3,False,False
+2020-08-01,11146.53197735967,Chocolate Milk,Springville,27.0,True,Saturday,3,False,False
+2020-08-02,7588.564177061453,Chocolate Milk,Provo,24.0,True,Sunday,3,False,False
+2020-08-03,4308.921712834678,Cougartail,Orem,24.0,True,Monday,3,False,False
+2020-08-04,11877.413967692723,Chocolate Milk,Provo,29.0,True,Tuesday,3,False,False
+2020-08-05,6329.932314530986,Cougartail,Springville,22.0,True,Wednesday,3,False,False
+2020-08-06,5219.425939376252,Hotdog,Springville,27.0,True,Thursday,3,False,False
+2020-08-07,5986.334762487567,Hotdog,Orem,19.0,False,Friday,3,False,False
+2020-08-08,12435.8527598926,Cougartail,Provo,31.0,False,Saturday,3,False,False
+2020-08-09,10776.306636442216,Cougartail,Springville,26.0,True,Sunday,3,False,False
+2020-08-10,5493.5648659207445,Hotdog,Provo,21.0,False,Monday,3,False,False
+2020-08-11,6055.636233443699,Chocolate Milk,Springville,12.0,False,Tuesday,3,False,False
+2020-08-12,10881.4661549984,Chocolate Milk,Orem,23.0,False,Wednesday,3,False,False
+2020-08-13,6885.983356417961,Chocolate Milk,Provo,17.0,False,Thursday,3,False,False
+2020-08-14,10655.049836437844,Chocolate Milk,Orem,24.0,False,Friday,3,False,False
+2020-08-15,17907.37698934216,Chocolate Milk,Orem,30.0,False,Saturday,3,False,False
+2020-08-16,9124.918481530969,Hotdog,Springville,24.0,False,Sunday,3,False,False
+2020-08-17,8465.25051257973,Hotdog,Orem,22.0,False,Monday,3,False,False
+2020-08-18,11009.172208057611,Chocolate Milk,Orem,25.0,False,Tuesday,3,False,False
+2020-08-19,11260.653181118694,Hotdog,Provo,24.0,False,Wednesday,3,False,False
+2020-08-20,4307.921424754164,Cougartail,Provo,11.0,False,Thursday,3,False,False
+2020-08-21,9991.768915541641,Chocolate Milk,Orem,24.0,True,Friday,3,False,False
+2020-08-22,11385.05191113989,Cougartail,Springville,26.0,True,Saturday,3,False,False
+2020-08-23,10393.987096008666,Chocolate Milk,Provo,22.0,False,Sunday,3,False,False
+2020-08-24,13765.947736592476,Chocolate Milk,Orem,28.0,True,Monday,3,False,False
+2020-08-25,7096.69384737871,Hotdog,Provo,22.0,False,Tuesday,3,False,False
+2020-08-26,11302.132721802394,Chocolate Milk,Springville,27.0,False,Wednesday,3,False,False
+2020-08-27,9364.232994712176,Hotdog,Springville,34.0,True,Thursday,3,False,False
+2020-08-28,6575.701219696409,Cougartail,Provo,23.0,True,Friday,3,False,False
+2020-08-29,6550.674143631623,Hotdog,Provo,13.0,False,Saturday,3,False,False
+2020-08-30,8964.02266788857,Chocolate Milk,Orem,21.0,True,Sunday,3,False,False
+2020-08-31,5328.137355947883,Chocolate Milk,Provo,14.0,False,Monday,3,False,False
+2020-09-01,8562.700572781505,Cougartail,Orem,26.0,True,Tuesday,3,False,False
+2020-09-02,9752.020412657159,Chocolate Milk,Orem,30.0,True,Wednesday,3,False,False
+2020-09-03,10175.144354962864,Cougartail,Provo,27.0,False,Thursday,3,False,False
+2020-09-04,14337.661736402286,Hotdog,Springville,25.0,False,Friday,3,False,False
+2020-09-05,7280.280175500188,Cougartail,Orem,20.0,False,Saturday,3,False,False
+2020-09-06,8819.30899174268,Chocolate Milk,Orem,31.0,True,Sunday,3,False,False
+2020-09-07,13483.40030580584,Chocolate Milk,Provo,27.0,False,Monday,3,True,False
+2020-09-08,13094.904163418627,Hotdog,Provo,25.0,False,Tuesday,3,False,True
+2020-09-09,4542.0514351155225,Cougartail,Springville,24.0,True,Wednesday,3,False,False
+2020-09-10,9078.498359572315,Cougartail,Provo,24.0,False,Thursday,3,False,False
+2020-09-11,10053.646306693838,Cougartail,Orem,25.0,True,Friday,3,False,False
+2020-09-12,8809.295299107229,Chocolate Milk,Provo,20.0,True,Saturday,3,False,False
+2020-09-13,13452.84864019291,Cougartail,Orem,31.0,True,Sunday,3,False,False
+2020-09-14,5976.060283245309,Chocolate Milk,Provo,24.0,False,Monday,3,False,False
+2020-09-15,10373.762825561325,Cougartail,Provo,26.0,False,Tuesday,3,False,False
+2020-09-16,10402.578929977457,Chocolate Milk,Provo,21.0,False,Wednesday,3,False,False
+2020-09-17,7396.9755098855285,Hotdog,Provo,25.0,True,Thursday,3,False,False
+2020-09-18,6448.842029283944,Hotdog,Springville,12.0,False,Friday,3,False,False
+2020-09-19,13637.161132949908,Hotdog,Orem,18.0,False,Saturday,3,False,False
+2020-09-20,10093.605845269749,Cougartail,Springville,23.0,True,Sunday,3,False,False
+2020-09-21,11111.79367112303,Chocolate Milk,Provo,17.0,False,Monday,3,False,False
+2020-09-22,11894.432308643527,Cougartail,Springville,36.0,False,Tuesday,3,False,False
+2020-09-23,4913.1928641544555,Cougartail,Provo,15.0,False,Wednesday,3,False,False
+2020-09-24,8320.903614840983,Hotdog,Orem,25.0,True,Thursday,3,False,False
+2020-09-25,6088.799093114699,Cougartail,Orem,32.0,True,Friday,3,False,False
+2020-09-26,11098.663631752515,Hotdog,Springville,26.0,True,Saturday,3,False,False
+2020-09-27,12797.47983867586,Chocolate Milk,Springville,22.0,True,Sunday,3,False,False
+2020-09-28,8866.986749450214,Cougartail,Orem,21.0,False,Monday,3,False,False
+2020-09-29,7531.672943849715,Hotdog,Provo,27.0,False,Tuesday,3,False,False
+2020-09-30,5632.965271643949,Hotdog,Provo,19.0,False,Wednesday,3,False,False
+2020-10-01,5201.59529503171,Cougartail,Orem,23.0,True,Thursday,4,False,False
+2020-10-02,11202.071027103902,Hotdog,Springville,27.0,True,Friday,4,False,False
+2020-10-03,13085.659063952131,Chocolate Milk,Provo,22.0,False,Saturday,4,False,False
+2020-10-04,8745.994063446073,Cougartail,Provo,24.0,True,Sunday,4,False,False
+2020-10-05,10719.557753692454,Chocolate Milk,Orem,22.0,False,Monday,4,False,False
+2020-10-06,3892.70627249886,Cougartail,Springville,19.0,False,Tuesday,4,False,False
+2020-10-07,8021.153539669786,Chocolate Milk,Provo,29.0,True,Wednesday,4,False,False
+2020-10-08,9566.284530798113,Hotdog,Springville,30.0,True,Thursday,4,False,False
+2020-10-09,8123.6750942798935,Hotdog,Springville,22.0,False,Friday,4,False,False
+2020-10-10,5010.890431410385,Hotdog,Springville,22.0,True,Saturday,4,False,False
+2020-10-11,9700.804038739208,Hotdog,Provo,23.0,True,Sunday,4,False,False
+2020-10-12,13728.175468307434,Hotdog,Springville,26.0,True,Monday,4,True,False
+2020-10-13,8848.020822275463,Hotdog,Provo,19.0,False,Tuesday,4,False,True
+2020-10-14,9769.415751560366,Chocolate Milk,Orem,23.0,False,Wednesday,4,False,False
+2020-10-15,8866.909176489427,Cougartail,Provo,25.0,True,Thursday,4,False,False
+2020-10-16,9373.791470262955,Cougartail,Provo,27.0,False,Friday,4,False,False
+2020-10-17,7094.761645581901,Chocolate Milk,Orem,10.0,False,Saturday,4,False,False
+2020-10-18,7438.606098245059,Chocolate Milk,Provo,26.0,True,Sunday,4,False,False
+2020-10-19,6575.265686327677,Hotdog,Provo,25.0,True,Monday,4,False,False
+2020-10-20,16299.630512507056,Hotdog,Orem,29.0,False,Tuesday,4,False,False
+2020-10-21,9927.740436385557,Chocolate Milk,Orem,21.0,True,Wednesday,4,False,False
+2020-10-22,8872.4433595054,Chocolate Milk,Provo,21.0,False,Thursday,4,False,False
+2020-10-23,10042.159799777302,Hotdog,Provo,30.0,True,Friday,4,False,False
+2020-10-24,9364.696891021775,Cougartail,Provo,16.0,False,Saturday,4,False,False
+2020-10-25,16810.523753752783,Chocolate Milk,Orem,32.0,False,Sunday,4,False,False
+2020-10-26,9479.155093116926,Hotdog,Provo,37.0,True,Monday,4,False,False
+2020-10-27,10908.323591961676,Chocolate Milk,Provo,26.0,False,Tuesday,4,False,False
+2020-10-28,7877.468228493017,Hotdog,Springville,28.0,True,Wednesday,4,False,False
+2020-10-29,3985.2762669407975,Hotdog,Springville,16.0,True,Thursday,4,False,False
+2020-10-30,9573.412375674323,Chocolate Milk,Provo,20.0,False,Friday,4,False,False
+2020-10-31,14747.58119427435,Chocolate Milk,Orem,29.0,False,Saturday,4,False,False
+2020-11-01,13967.247648746741,Chocolate Milk,Orem,26.0,False,Sunday,4,False,False
+2020-11-02,6555.689679342909,Chocolate Milk,Provo,23.0,False,Monday,4,False,False
+2020-11-03,7533.14388743787,Chocolate Milk,Orem,25.0,True,Tuesday,4,False,False
+2020-11-04,10112.6050179729,Chocolate Milk,Provo,26.0,False,Wednesday,4,False,False
+2020-11-05,10206.12652406208,Chocolate Milk,Provo,22.0,False,Thursday,4,False,False
+2020-11-06,9081.328184658985,Chocolate Milk,Orem,24.0,True,Friday,4,False,False
+2020-11-07,11614.504666215189,Chocolate Milk,Provo,24.0,True,Saturday,4,False,False
+2020-11-08,12737.190995976987,Chocolate Milk,Orem,19.0,False,Sunday,4,False,False
+2020-11-09,14933.410118674867,Chocolate Milk,Springville,26.0,False,Monday,4,False,False
+2020-11-10,9814.580024543116,Hotdog,Provo,33.0,True,Tuesday,4,False,False
+2020-11-11,12224.107578193285,Hotdog,Springville,33.0,True,Wednesday,4,True,False
+2020-11-12,9098.468269664767,Chocolate Milk,Provo,17.0,False,Thursday,4,False,True
+2020-11-13,11289.822606983978,Chocolate Milk,Orem,27.0,True,Friday,4,False,False
+2020-11-14,14359.195642549561,Chocolate Milk,Springville,27.0,False,Saturday,4,False,False
+2020-11-15,9266.809355993471,Cougartail,Springville,22.0,False,Sunday,4,False,False
+2020-11-16,5802.793992737263,Hotdog,Springville,19.0,False,Monday,4,False,False
+2020-11-17,5894.506443905384,Cougartail,Springville,17.0,False,Tuesday,4,False,False
+2020-11-18,7365.014350943753,Hotdog,Orem,22.0,True,Wednesday,4,False,False
+2020-11-19,8983.259737553331,Cougartail,Provo,26.0,True,Thursday,4,False,False
+2020-11-20,7828.921076365498,Hotdog,Orem,23.0,True,Friday,4,False,False
+2020-11-21,8700.697010475582,Cougartail,Springville,21.0,False,Saturday,4,False,False
+2020-11-22,7716.0930986307185,Cougartail,Provo,18.0,False,Sunday,4,False,False
+2020-11-23,10883.758335385057,Hotdog,Springville,26.0,False,Monday,4,False,False
+2020-11-24,7913.697441472613,Hotdog,Springville,29.0,True,Tuesday,4,False,False
+2020-11-25,5421.96023810499,Hotdog,Provo,19.0,False,Wednesday,4,False,False
+2020-11-26,8288.970243072525,Chocolate Milk,Springville,26.0,True,Thursday,4,True,False
+2020-11-27,9141.160316953215,Hotdog,Springville,15.0,False,Friday,4,False,True
+2020-11-28,11831.211476263397,Chocolate Milk,Orem,21.0,True,Saturday,4,False,False
+2020-11-29,13632.479256171757,Cougartail,Springville,28.0,False,Sunday,4,False,False
+2020-11-30,5539.9749552683115,Cougartail,Springville,19.0,False,Monday,4,False,False
+2020-12-01,7033.502192396302,Hotdog,Orem,21.0,True,Tuesday,4,False,False
+2020-12-02,8985.838906936933,Hotdog,Springville,31.0,True,Wednesday,4,False,False
+2020-12-03,8582.09886663587,Chocolate Milk,Orem,21.0,False,Thursday,4,False,False
+2020-12-04,6120.1428187999645,Hotdog,Orem,20.0,True,Friday,4,False,False
+2020-12-05,14102.17797676939,Chocolate Milk,Orem,27.0,True,Saturday,4,False,False
+2020-12-06,15485.520566027973,Hotdog,Provo,34.0,True,Sunday,4,False,False
+2020-12-07,7750.704160578113,Chocolate Milk,Springville,23.0,True,Monday,4,False,False
+2020-12-08,7516.258516205366,Cougartail,Orem,28.0,True,Tuesday,4,False,False
+2020-12-09,12599.273563377086,Chocolate Milk,Orem,31.0,True,Wednesday,4,False,False
+2020-12-10,9952.983055965282,Chocolate Milk,Orem,26.0,True,Thursday,4,False,False
+2020-12-11,7333.489217933817,Chocolate Milk,Provo,23.0,True,Friday,4,False,False
+2020-12-12,6912.847930703664,Hotdog,Springville,20.0,False,Saturday,4,False,False
+2020-12-13,4267.525729764806,Hotdog,Springville,17.0,True,Sunday,4,False,False
+2020-12-14,10599.694561711227,Hotdog,Springville,30.0,True,Monday,4,False,False
+2020-12-15,9612.337252134304,Cougartail,Orem,25.0,False,Tuesday,4,False,False
+2020-12-16,7553.133817250795,Hotdog,Springville,31.0,True,Wednesday,4,False,False
+2020-12-17,13171.155622605198,Chocolate Milk,Orem,29.0,False,Thursday,4,False,False
+2020-12-18,9678.19180351298,Chocolate Milk,Springville,21.0,False,Friday,4,False,False
+2020-12-19,7390.352527436373,Hotdog,Springville,18.0,False,Saturday,4,False,False
+2020-12-20,8832.6613941272,Hotdog,Springville,26.0,False,Sunday,4,False,False
+2020-12-21,4191.56905593492,Cougartail,Provo,21.0,False,Monday,4,False,False
+2020-12-22,10792.195118887037,Chocolate Milk,Provo,26.0,True,Tuesday,4,False,False
+2020-12-23,6953.152951534782,Cougartail,Springville,21.0,False,Wednesday,4,False,False
+2020-12-24,6756.878484430965,Cougartail,Springville,20.0,False,Thursday,4,False,False
+2020-12-25,11856.710461077793,Hotdog,Springville,24.0,True,Friday,4,True,False
+2020-12-26,10628.107213262625,Hotdog,Springville,29.0,False,Saturday,4,False,True
+2020-12-27,13859.992912050375,Chocolate Milk,Orem,26.0,False,Sunday,4,False,False
+2020-12-28,10100.185836098957,Hotdog,Provo,30.0,True,Monday,4,False,False
+2020-12-29,5286.355363649809,Chocolate Milk,Springville,18.0,True,Tuesday,4,False,False
+2020-12-30,4288.509701204238,Chocolate Milk,Provo,19.0,False,Wednesday,4,False,False
+2020-12-31,6766.424503341686,Cougartail,Orem,24.0,True,Thursday,4,False,False
+2021-01-01,14810.0264954563,Hotdog,Provo,35.0,True,Friday,1,True,False
+2021-01-02,15811.481549752201,Hotdog,Springville,28.0,False,Saturday,1,False,True
+2021-01-03,5714.314084359872,Chocolate Milk,Springville,19.0,True,Sunday,1,False,False
+2021-01-04,6774.034479691238,Cougartail,Orem,24.0,False,Monday,1,False,False
+2021-01-05,6689.9835524292785,Hotdog,Springville,26.0,False,Tuesday,1,False,False
+2021-01-06,5810.779350985708,Hotdog,Springville,22.0,True,Wednesday,1,False,False
+2021-01-07,9550.186797315839,Hotdog,Springville,28.0,False,Thursday,1,False,False
+2021-01-08,7247.046910732337,Hotdog,Springville,24.0,False,Friday,1,False,False
+2021-01-09,8350.26679021486,Hotdog,Springville,23.0,False,Saturday,1,False,False
+2021-01-10,6743.543504868737,Cougartail,Provo,31.0,False,Sunday,1,False,False
+2021-01-11,3201.6937067609983,Hotdog,Orem,16.0,False,Monday,1,False,False
+2021-01-12,5874.532613885305,Chocolate Milk,Provo,20.0,False,Tuesday,1,False,False
+2021-01-13,4909.462674658189,Cougartail,Springville,21.0,False,Wednesday,1,False,False
+2021-01-14,6255.287834912312,Hotdog,Orem,21.0,False,Thursday,1,False,False
+2021-01-15,6581.745631126391,Chocolate Milk,Orem,21.0,False,Friday,1,False,False
+2021-01-16,10507.616187029933,Cougartail,Provo,27.0,False,Saturday,1,False,False
+2021-01-17,12862.814321514896,Hotdog,Orem,30.0,False,Sunday,1,False,False
+2021-01-18,17185.200268865956,Hotdog,Provo,29.0,False,Monday,1,True,False
+2021-01-19,5838.920113928436,Chocolate Milk,Springville,20.0,True,Tuesday,1,False,True
+2021-01-20,7336.498949827893,Hotdog,Provo,24.0,False,Wednesday,1,False,False
+2021-01-21,5088.753674592444,Cougartail,Provo,27.0,True,Thursday,1,False,False
+2021-01-22,12613.058482568693,Hotdog,Provo,26.0,True,Friday,1,False,False
+2021-01-23,10469.845713322145,Cougartail,Springville,31.0,True,Saturday,1,False,False
+2021-01-24,7629.823380745283,Chocolate Milk,Provo,21.0,False,Sunday,1,False,False
+2021-01-25,5227.304653571296,Chocolate Milk,Orem,26.0,True,Monday,1,False,False
+2021-01-26,3319.8437044891466,Cougartail,Provo,23.0,True,Tuesday,1,False,False
+2021-01-27,5229.319005441486,Cougartail,Orem,26.0,True,Wednesday,1,False,False
+2021-01-28,4406.5551049431115,Chocolate Milk,Orem,20.0,True,Thursday,1,False,False
+2021-01-29,3917.342658183985,Cougartail,Springville,20.0,True,Friday,1,False,False
+2021-01-30,5806.401783741377,Hotdog,Provo,21.0,True,Saturday,1,False,False
+2021-01-31,5124.028542320741,Chocolate Milk,Provo,22.0,True,Sunday,1,False,False
+2021-02-01,12628.328776875149,Chocolate Milk,Orem,33.0,True,Monday,1,False,False
+2021-02-02,5790.569277617416,Cougartail,Orem,31.0,True,Tuesday,1,False,False
+2021-02-03,3840.6911858005815,Cougartail,Orem,24.0,False,Wednesday,1,False,False
+2021-02-04,7374.796769409494,Cougartail,Provo,26.0,True,Thursday,1,False,False
+2021-02-05,7341.018206729492,Cougartail,Springville,17.0,False,Friday,1,False,False
+2021-02-06,11614.81069404053,Chocolate Milk,Provo,24.0,False,Saturday,1,False,False
+2021-02-07,10505.665563677874,Hotdog,Orem,26.0,True,Sunday,1,False,False
+2021-02-08,11818.69933739268,Chocolate Milk,Springville,31.0,False,Monday,1,False,False
+2021-02-09,13818.556263387442,Chocolate Milk,Springville,27.0,False,Tuesday,1,False,False
+2021-02-10,5490.358078206149,Hotdog,Provo,27.0,True,Wednesday,1,False,False
+2021-02-11,7050.16920931636,Cougartail,Provo,27.0,False,Thursday,1,False,False
+2021-02-12,6623.520876308255,Cougartail,Orem,26.0,True,Friday,1,False,False
+2021-02-13,6546.486318105476,Chocolate Milk,Springville,18.0,True,Saturday,1,False,False
+2021-02-14,6734.790264908749,Cougartail,Springville,23.0,False,Sunday,1,False,False
+2021-02-15,13965.90927322002,Chocolate Milk,Provo,32.0,True,Monday,1,True,False
+2021-02-16,9885.711605969014,Chocolate Milk,Springville,29.0,True,Tuesday,1,False,True
+2021-02-17,12163.087203366233,Cougartail,Provo,28.0,False,Wednesday,1,False,False
+2021-02-18,5512.566943533345,Cougartail,Springville,26.0,True,Thursday,1,False,False
+2021-02-19,10623.387045959704,Cougartail,Provo,28.0,False,Friday,1,False,False
+2021-02-20,10111.11390672633,Cougartail,Orem,20.0,False,Saturday,1,False,False
+2021-02-21,7345.035159582624,Cougartail,Orem,17.0,False,Sunday,1,False,False
+2021-02-22,4669.842173055219,Hotdog,Springville,23.0,True,Monday,1,False,False
+2021-02-23,9712.866314015282,Cougartail,Provo,28.0,False,Tuesday,1,False,False
+2021-02-24,4159.424554660364,Hotdog,Provo,26.0,True,Wednesday,1,False,False
+2021-02-25,13316.907448540343,Chocolate Milk,Orem,30.0,True,Thursday,1,False,False
+2021-02-26,12087.82288586902,Chocolate Milk,Provo,27.0,False,Friday,1,False,False
+2021-02-27,7548.0565333714085,Cougartail,Springville,26.0,True,Saturday,1,False,False
+2021-02-28,11557.603358532418,Hotdog,Orem,32.0,True,Sunday,1,False,False
+2021-03-01,8780.703938772604,Cougartail,Orem,31.0,True,Monday,1,False,False
+2021-03-02,9534.072143251014,Cougartail,Orem,25.0,False,Tuesday,1,False,False
+2021-03-03,7162.151588333401,Chocolate Milk,Springville,20.0,False,Wednesday,1,False,False
+2021-03-04,10131.163991714624,Chocolate Milk,Provo,21.0,False,Thursday,1,False,False
+2021-03-05,11220.205299138572,Cougartail,Provo,25.0,False,Friday,1,False,False
+2021-03-06,9664.526976954676,Hotdog,Springville,24.0,True,Saturday,1,False,False
+2021-03-07,9354.174075189656,Chocolate Milk,Provo,34.0,True,Sunday,1,False,False
+2021-03-08,4731.791792902767,Chocolate Milk,Springville,17.0,False,Monday,1,False,False
+2021-03-09,12049.973294331925,Chocolate Milk,Orem,25.0,False,Tuesday,1,False,False
+2021-03-10,9274.315702471325,Hotdog,Springville,20.0,False,Wednesday,1,False,False
+2021-03-11,6582.217213798052,Hotdog,Orem,26.0,True,Thursday,1,False,False
+2021-03-12,11939.898427943901,Hotdog,Orem,27.0,False,Friday,1,False,False
+2021-03-13,13841.032468527032,Chocolate Milk,Provo,23.0,False,Saturday,1,False,False
+2021-03-14,10138.903002013287,Chocolate Milk,Provo,28.0,True,Sunday,1,False,False
+2021-03-15,5302.656343288253,Chocolate Milk,Provo,25.0,True,Monday,1,False,False
+2021-03-16,9910.730077023738,Hotdog,Provo,25.0,True,Tuesday,1,False,False
+2021-03-17,5978.071888764255,Hotdog,Provo,23.0,False,Wednesday,1,False,False
+2021-03-18,8208.2194181536,Hotdog,Provo,29.0,False,Thursday,1,False,False
+2021-03-19,10806.236108506824,Chocolate Milk,Provo,26.0,False,Friday,1,False,False
+2021-03-20,14621.744501188714,Chocolate Milk,Orem,33.0,True,Saturday,1,False,False
+2021-03-21,10703.755486872438,Chocolate Milk,Orem,32.0,True,Sunday,1,False,False
+2021-03-22,10458.993831427333,Cougartail,Springville,28.0,False,Monday,1,False,False
+2021-03-23,4859.905609941434,Cougartail,Provo,15.0,False,Tuesday,1,False,False
+2021-03-24,4907.616064687451,Hotdog,Springville,18.0,True,Wednesday,1,False,False
+2021-03-25,8384.691521709587,Hotdog,Provo,31.0,True,Thursday,1,False,False
+2021-03-26,7259.270124414544,Chocolate Milk,Provo,23.0,True,Friday,1,False,False
+2021-03-27,13594.878918159993,Hotdog,Orem,27.0,True,Saturday,1,False,False
+2021-03-28,8917.162962952878,Hotdog,Orem,23.0,False,Sunday,1,False,False
+2021-03-29,6795.962228184312,Chocolate Milk,Springville,28.0,True,Monday,1,False,False
+2021-03-30,10954.211549775866,Chocolate Milk,Orem,30.0,True,Tuesday,1,False,False
+2021-03-31,7063.307050204938,Hotdog,Springville,20.0,False,Wednesday,1,False,False
+2021-04-01,6819.291582683828,Cougartail,Provo,22.0,True,Thursday,2,False,False
+2021-04-02,6216.759831037502,Chocolate Milk,Provo,17.0,False,Friday,2,False,False
+2021-04-03,7576.19512540329,Cougartail,Provo,27.0,True,Saturday,2,False,False
+2021-04-04,7081.0757198642805,Hotdog,Orem,17.0,False,Sunday,2,False,False
+2021-04-05,9377.791078727929,Hotdog,Orem,24.0,True,Monday,2,False,False
+2021-04-06,14358.255134684854,Chocolate Milk,Orem,28.0,False,Tuesday,2,False,False
+2021-04-07,14331.119876325052,Cougartail,Orem,36.0,False,Wednesday,2,False,False
+2021-04-08,9794.828216311134,Hotdog,Orem,28.0,True,Thursday,2,False,False
+2021-04-09,5815.851914330339,Cougartail,Springville,32.0,True,Friday,2,False,False
+2021-04-10,11354.802172099226,Hotdog,Provo,27.0,True,Saturday,2,False,False
+2021-04-11,7551.437258182251,Hotdog,Orem,27.0,True,Sunday,2,False,False
+2021-04-12,6849.734082032432,Cougartail,Springville,25.0,True,Monday,2,False,False
+2021-04-13,8072.572505233562,Hotdog,Provo,24.0,False,Tuesday,2,False,False
+2021-04-14,9202.432810567436,Cougartail,Provo,32.0,True,Wednesday,2,False,False
+2021-04-15,9677.097498274108,Cougartail,Orem,28.0,False,Thursday,2,False,False
+2021-04-16,11983.093430018824,Chocolate Milk,Provo,28.0,False,Friday,2,False,False
+2021-04-17,9846.632497321158,Hotdog,Orem,23.0,False,Saturday,2,False,False
+2021-04-18,11013.330023623843,Chocolate Milk,Provo,24.0,False,Sunday,2,False,False
+2021-04-19,10175.892842498963,Cougartail,Provo,36.0,True,Monday,2,False,False
+2021-04-20,8848.515060424052,Hotdog,Springville,26.0,False,Tuesday,2,False,False
+2021-04-21,10291.387726980985,Hotdog,Springville,33.0,True,Wednesday,2,False,False
+2021-04-22,7277.7483103137465,Cougartail,Springville,23.0,False,Thursday,2,False,False
+2021-04-23,12426.007632509292,Cougartail,Orem,30.0,False,Friday,2,False,False
+2021-04-24,10372.509336680565,Hotdog,Orem,27.0,True,Saturday,2,False,False
+2021-04-25,4643.564442173539,Cougartail,Springville,24.0,True,Sunday,2,False,False
+2021-04-26,6884.990071828192,Chocolate Milk,Springville,29.0,True,Monday,2,False,False
+2021-04-27,4600.2157843607965,Hotdog,Orem,18.0,True,Tuesday,2,False,False
+2021-04-28,10194.902756508014,Cougartail,Orem,29.0,True,Wednesday,2,False,False
+2021-04-29,14581.85177340155,Chocolate Milk,Provo,30.0,False,Thursday,2,False,False
+2021-04-30,9082.891471486053,Chocolate Milk,Orem,27.0,True,Friday,2,False,False
+2021-05-01,10665.699421079602,Cougartail,Orem,33.0,True,Saturday,2,False,False
+2021-05-02,7041.432757639352,Cougartail,Provo,26.0,False,Sunday,2,False,False
+2021-05-03,7016.239067364035,Chocolate Milk,Provo,25.0,True,Monday,2,False,False
+2021-05-04,12134.588342327912,Hotdog,Orem,28.0,False,Tuesday,2,False,False
+2021-05-05,6993.964624230455,Cougartail,Springville,30.0,False,Wednesday,2,False,False
+2021-05-06,12069.519729500722,Hotdog,Springville,29.0,False,Thursday,2,False,False
+2021-05-07,8545.605875439955,Cougartail,Springville,25.0,False,Friday,2,False,False
+2021-05-08,8378.841761095428,Cougartail,Springville,21.0,True,Saturday,2,False,False
+2021-05-09,7254.5164325576325,Cougartail,Springville,30.0,True,Sunday,2,False,False
+2021-05-10,6500.794022115811,Cougartail,Provo,22.0,True,Monday,2,False,False
+2021-05-11,6069.455575443884,Chocolate Milk,Springville,22.0,False,Tuesday,2,False,False
+2021-05-12,9587.954066835047,Hotdog,Provo,23.0,False,Wednesday,2,False,False
+2021-05-13,12861.24529592934,Hotdog,Provo,27.0,False,Thursday,2,False,False
+2021-05-14,12663.23037864421,Hotdog,Orem,22.0,False,Friday,2,False,False
+2021-05-15,9132.080260520552,Cougartail,Orem,21.0,False,Saturday,2,False,False
+2021-05-16,8246.368156972127,Chocolate Milk,Orem,23.0,True,Sunday,2,False,False
+2021-05-17,7804.380572487754,Hotdog,Orem,25.0,True,Monday,2,False,False
+2021-05-18,10653.758621234352,Cougartail,Provo,29.0,True,Tuesday,2,False,False
+2021-05-19,5607.532847744118,Cougartail,Springville,27.0,False,Wednesday,2,False,False
+2021-05-20,5094.192687410426,Cougartail,Orem,21.0,False,Thursday,2,False,False
+2021-05-21,6858.177411254093,Hotdog,Provo,27.0,False,Friday,2,False,False
+2021-05-22,13528.29997942141,Chocolate Milk,Springville,28.0,False,Saturday,2,False,False
+2021-05-23,6342.526060508067,Hotdog,Orem,24.0,True,Sunday,2,False,False
+2021-05-24,9198.536474589082,Hotdog,Springville,22.0,False,Monday,2,False,False
+2021-05-25,10081.76066691345,Hotdog,Orem,22.0,True,Tuesday,2,False,False
+2021-05-26,7419.740281398749,Cougartail,Provo,24.0,False,Wednesday,2,False,False
+2021-05-27,17670.59575036653,Chocolate Milk,Springville,37.0,True,Thursday,2,False,False
+2021-05-28,11152.273455148279,Chocolate Milk,Orem,22.0,False,Friday,2,False,False
+2021-05-29,13298.610029688309,Chocolate Milk,Provo,28.0,False,Saturday,2,False,False
+2021-05-30,7126.589665504055,Hotdog,Provo,23.0,True,Sunday,2,False,False
+2021-05-31,13650.620519503991,Cougartail,Springville,24.0,False,Monday,2,True,False
+2021-06-01,10801.048015484479,Hotdog,Springville,23.0,False,Tuesday,2,False,True
+2021-06-02,6351.657948570675,Hotdog,Orem,30.0,True,Wednesday,2,False,False
+2021-06-03,5141.487661355549,Cougartail,Orem,28.0,True,Thursday,2,False,False
+2021-06-04,7495.163786885039,Chocolate Milk,Springville,26.0,False,Friday,2,False,False
+2021-06-05,8271.701597254272,Cougartail,Springville,29.0,True,Saturday,2,False,False
+2021-06-06,10129.13092655419,Chocolate Milk,Springville,30.0,False,Sunday,2,False,False
+2021-06-07,4402.8824984684115,Hotdog,Springville,22.0,True,Monday,2,False,False
+2021-06-08,6285.0780348271655,Cougartail,Provo,29.0,True,Tuesday,2,False,False
+2021-06-09,8063.128193589981,Chocolate Milk,Orem,23.0,False,Wednesday,2,False,False
+2021-06-10,13853.650281231268,Cougartail,Orem,31.0,True,Thursday,2,False,False
+2021-06-11,15121.104360668845,Cougartail,Orem,30.0,False,Friday,2,False,False
+2021-06-12,18270.472856121647,Chocolate Milk,Orem,29.0,True,Saturday,2,False,False
+2021-06-13,14985.776018158936,Chocolate Milk,Orem,26.0,True,Sunday,2,False,False
+2021-06-14,6771.893673750506,Hotdog,Provo,24.0,True,Monday,2,False,False
+2021-06-15,8210.686199516977,Cougartail,Provo,25.0,False,Tuesday,2,False,False
+2021-06-16,7695.431527208125,Chocolate Milk,Springville,31.0,True,Wednesday,2,False,False
+2021-06-17,8553.24714178983,Chocolate Milk,Orem,23.0,True,Thursday,2,False,False
+2021-06-18,15194.685263066083,Chocolate Milk,Orem,27.0,False,Friday,2,True,False
+2021-06-19,7030.996045079263,Cougartail,Provo,18.0,False,Saturday,2,False,True
+2021-06-20,12535.514906791794,Chocolate Milk,Orem,28.0,False,Sunday,2,False,False
+2021-06-21,5964.133269900271,Cougartail,Springville,22.0,True,Monday,2,False,False
+2021-06-22,9210.224360215565,Chocolate Milk,Orem,20.0,False,Tuesday,2,False,False
+2021-06-23,11887.219480333726,Chocolate Milk,Orem,29.0,True,Wednesday,2,False,False
+2021-06-24,8222.372723291433,Cougartail,Orem,28.0,True,Thursday,2,False,False
+2021-06-25,7238.976361837851,Hotdog,Springville,25.0,False,Friday,2,False,False
+2021-06-26,10830.511832299455,Cougartail,Springville,25.0,False,Saturday,2,False,False
+2021-06-27,14539.70847430917,Hotdog,Provo,38.0,True,Sunday,2,False,False
+2021-06-28,11058.439343625489,Hotdog,Orem,26.0,True,Monday,2,False,False
+2021-06-29,11140.75557654706,Chocolate Milk,Provo,26.0,True,Tuesday,2,False,False
+2021-06-30,6649.287386488814,Cougartail,Springville,30.0,True,Wednesday,2,False,False
+2021-07-01,9450.362168840787,Hotdog,Springville,27.0,False,Thursday,3,False,False
+2021-07-02,9181.922990905372,Cougartail,Orem,32.0,True,Friday,3,False,False
+2021-07-03,9755.686085691526,Hotdog,Provo,28.0,True,Saturday,3,False,False
+2021-07-04,8349.04847181232,Cougartail,Springville,31.0,True,Sunday,3,False,False
+2021-07-05,13206.803294895879,Hotdog,Springville,29.0,True,Monday,3,True,False
+2021-07-06,13641.765398407488,Chocolate Milk,Provo,30.0,False,Tuesday,3,False,True
+2021-07-07,14751.050602375426,Chocolate Milk,Provo,27.0,False,Wednesday,3,False,False
+2021-07-08,7611.006473435497,Cougartail,Springville,28.0,True,Thursday,3,False,False
+2021-07-09,9136.27264366306,Hotdog,Orem,26.0,True,Friday,3,False,False
+2021-07-10,18639.486448663578,Hotdog,Orem,30.0,False,Saturday,3,False,False
+2021-07-11,6936.085889166567,Hotdog,Orem,20.0,True,Sunday,3,False,False
+2021-07-12,10517.829609410783,Chocolate Milk,Orem,31.0,True,Monday,3,False,False
+2021-07-13,13103.974962354514,Hotdog,Provo,32.0,True,Tuesday,3,False,False
+2021-07-14,7300.031350735599,Cougartail,Springville,31.0,False,Wednesday,3,False,False
+2021-07-15,8930.925941619911,Hotdog,Springville,27.0,False,Thursday,3,False,False
+2021-07-16,9405.044798100302,Cougartail,Orem,30.0,True,Friday,3,False,False
+2021-07-17,9031.209205747495,Hotdog,Springville,23.0,False,Saturday,3,False,False
+2021-07-18,13804.026763729264,Hotdog,Provo,31.0,True,Sunday,3,False,False
+2021-07-19,6261.8542135083935,Cougartail,Springville,22.0,True,Monday,3,False,False
+2021-07-20,8700.875774539545,Cougartail,Springville,30.0,True,Tuesday,3,False,False
+2021-07-21,7523.223801522637,Cougartail,Springville,30.0,True,Wednesday,3,False,False
+2021-07-22,12413.659776101898,Chocolate Milk,Orem,29.0,True,Thursday,3,False,False
+2021-07-23,7438.601193296136,Hotdog,Orem,25.0,False,Friday,3,False,False
+2021-07-24,9766.92161662794,Cougartail,Springville,31.0,True,Saturday,3,False,False
+2021-07-25,8465.294994884916,Hotdog,Provo,18.0,False,Sunday,3,False,False
+2021-07-26,6824.568380810729,Cougartail,Springville,31.0,True,Monday,3,False,False
+2021-07-27,12068.725405599975,Chocolate Milk,Provo,28.0,False,Tuesday,3,False,False
+2021-07-28,18177.622572700308,Hotdog,Provo,32.0,False,Wednesday,3,False,False
+2021-07-29,9826.112958504486,Chocolate Milk,Provo,28.0,True,Thursday,3,False,False
+2021-07-30,13778.70597982241,Hotdog,Provo,36.0,True,Friday,3,False,False
+2021-07-31,11859.722413205729,Cougartail,Orem,23.0,False,Saturday,3,False,False
+2021-08-01,8678.467884328082,Cougartail,Springville,30.0,False,Sunday,3,False,False
+2021-08-02,3921.9949869623983,Cougartail,Provo,23.0,True,Monday,3,False,False
+2021-08-03,8063.7143416203935,Chocolate Milk,Provo,27.0,False,Tuesday,3,False,False
+2021-08-04,8338.809536085711,Cougartail,Springville,31.0,True,Wednesday,3,False,False
+2021-08-05,5057.018276678624,Cougartail,Provo,30.0,True,Thursday,3,False,False
+2021-08-06,15179.30126396798,Cougartail,Orem,38.0,True,Friday,3,False,False
+2021-08-07,11309.742234509798,Chocolate Milk,Provo,26.0,True,Saturday,3,False,False
+2021-08-08,16422.843201827658,Chocolate Milk,Orem,34.0,True,Sunday,3,False,False
+2021-08-09,8232.420840941164,Hotdog,Orem,26.0,False,Monday,3,False,False
+2021-08-10,10105.598162005457,Hotdog,Provo,24.0,True,Tuesday,3,False,False
+2021-08-11,5463.522301021149,Cougartail,Springville,19.0,False,Wednesday,3,False,False
+2021-08-12,5412.940815741288,Cougartail,Orem,28.0,True,Thursday,3,False,False
+2021-08-13,11687.958738032432,Cougartail,Provo,25.0,False,Friday,3,False,False
+2021-08-14,8490.168195477207,Cougartail,Springville,32.0,True,Saturday,3,False,False
+2021-08-15,8634.003128754495,Cougartail,Orem,25.0,False,Sunday,3,False,False
+2021-08-16,8104.187393996756,Chocolate Milk,Provo,25.0,False,Monday,3,False,False
+2021-08-17,9388.965599922656,Chocolate Milk,Provo,29.0,True,Tuesday,3,False,False
+2021-08-18,11963.697429876036,Cougartail,Provo,36.0,True,Wednesday,3,False,False
+2021-08-19,10318.783862844246,Hotdog,Orem,22.0,False,Thursday,3,False,False
+2021-08-20,18901.58298399914,Chocolate Milk,Provo,33.0,True,Friday,3,False,False
+2021-08-21,12935.576534024016,Chocolate Milk,Provo,32.0,True,Saturday,3,False,False
+2021-08-22,8569.572421252644,Cougartail,Springville,26.0,False,Sunday,3,False,False
+2021-08-23,11101.491052035393,Chocolate Milk,Orem,31.0,False,Monday,3,False,False
+2021-08-24,6088.929630286961,Hotdog,Provo,26.0,True,Tuesday,3,False,False
+2021-08-25,17215.18737773972,Hotdog,Orem,39.0,True,Wednesday,3,False,False
+2021-08-26,7390.661970145349,Hotdog,Provo,27.0,True,Thursday,3,False,False
+2021-08-27,13639.129224006518,Chocolate Milk,Provo,28.0,False,Friday,3,False,False
+2021-08-28,10751.381311599085,Chocolate Milk,Springville,26.0,True,Saturday,3,False,False
+2021-08-29,4574.68059846254,Cougartail,Provo,19.0,True,Sunday,3,False,False
+2021-08-30,8237.01599356301,Hotdog,Provo,26.0,False,Monday,3,False,False
+2021-08-31,5813.8003123936005,Chocolate Milk,Springville,29.0,True,Tuesday,3,False,False
+2021-09-01,13218.169026122014,Hotdog,Provo,35.0,False,Wednesday,3,False,False
+2021-09-02,10566.082842918771,Chocolate Milk,Provo,30.0,True,Thursday,3,False,False
+2021-09-03,10450.831352436879,Chocolate Milk,Springville,27.0,False,Friday,3,False,False
+2021-09-04,17503.922666913153,Chocolate Milk,Provo,28.0,False,Saturday,3,False,False
+2021-09-05,10077.516712342429,Chocolate Milk,Springville,29.0,False,Sunday,3,False,False
+2021-09-06,16761.182452872512,Chocolate Milk,Orem,26.0,False,Monday,3,True,False
+2021-09-07,7826.618490198408,Cougartail,Springville,31.0,True,Tuesday,3,False,True
+2021-09-08,11622.393549350872,Hotdog,Springville,36.0,True,Wednesday,3,False,False
+2021-09-09,5556.086376416937,Cougartail,Provo,26.0,True,Thursday,3,False,False
+2021-09-10,14980.541574440524,Hotdog,Orem,34.0,True,Friday,3,False,False
+2021-09-11,16063.595210540485,Chocolate Milk,Provo,32.0,True,Saturday,3,False,False
+2021-09-12,12986.7697483792,Chocolate Milk,Provo,30.0,True,Sunday,3,False,False
+2021-09-13,11147.636436314411,Hotdog,Provo,28.0,False,Monday,3,False,False
+2021-09-14,12736.801492555664,Chocolate Milk,Provo,29.0,False,Tuesday,3,False,False
+2021-09-15,9867.00396310654,Chocolate Milk,Provo,27.0,True,Wednesday,3,False,False
+2021-09-16,17244.43473810308,Hotdog,Orem,37.0,False,Thursday,3,False,False
+2021-09-17,9162.636191063406,Chocolate Milk,Springville,24.0,False,Friday,3,False,False
+2021-09-18,13961.899435154563,Chocolate Milk,Orem,34.0,True,Saturday,3,False,False
+2021-09-19,11385.061259199536,Cougartail,Springville,36.0,True,Sunday,3,False,False
+2021-09-20,8860.472496890654,Chocolate Milk,Springville,26.0,True,Monday,3,False,False
+2021-09-21,12017.054278870179,Cougartail,Orem,34.0,True,Tuesday,3,False,False
+2021-09-22,14957.425214691279,Hotdog,Provo,29.0,False,Wednesday,3,False,False
+2021-09-23,10610.433643274497,Hotdog,Orem,28.0,False,Thursday,3,False,False
+2021-09-24,6915.831850974489,Hotdog,Provo,28.0,True,Friday,3,False,False
+2021-09-25,7382.304972019657,Hotdog,Provo,20.0,True,Saturday,3,False,False
+2021-09-26,12861.02261049428,Chocolate Milk,Springville,31.0,False,Sunday,3,False,False
+2021-09-27,14149.204605203924,Chocolate Milk,Orem,35.0,False,Monday,3,False,False
+2021-09-28,8029.58288745395,Chocolate Milk,Provo,24.0,False,Tuesday,3,False,False
+2021-09-29,12020.114876456348,Hotdog,Provo,32.0,False,Wednesday,3,False,False
+2021-09-30,9469.019171391545,Hotdog,Orem,28.0,True,Thursday,3,False,False
+2021-10-01,7376.508357308511,Hotdog,Provo,23.0,False,Friday,4,False,False
+2021-10-02,8917.140351636925,Cougartail,Springville,33.0,True,Saturday,4,False,False
+2021-10-03,14479.795345917684,Chocolate Milk,Springville,36.0,True,Sunday,4,False,False
+2021-10-04,10756.98157288182,Hotdog,Orem,24.0,False,Monday,4,False,False
+2021-10-05,9085.85037548587,Cougartail,Orem,29.0,False,Tuesday,4,False,False
+2021-10-06,8332.02897827488,Hotdog,Orem,21.0,False,Wednesday,4,False,False
+2021-10-07,13681.09863153728,Chocolate Milk,Orem,28.0,False,Thursday,4,False,False
+2021-10-08,9717.411879239817,Hotdog,Springville,31.0,True,Friday,4,False,False
+2021-10-09,16770.452799223458,Cougartail,Springville,37.0,True,Saturday,4,False,False
+2021-10-10,12816.598185552211,Chocolate Milk,Springville,36.0,False,Sunday,4,False,False
+2021-10-11,13790.347019534109,Chocolate Milk,Provo,36.0,True,Monday,4,True,False
+2021-10-12,9552.058717048532,Cougartail,Provo,25.0,True,Tuesday,4,False,True
+2021-10-13,9605.475167284729,Cougartail,Provo,27.0,False,Wednesday,4,False,False
+2021-10-14,6483.39956990039,Chocolate Milk,Springville,20.0,False,Thursday,4,False,False
+2021-10-15,13488.941976589365,Hotdog,Orem,25.0,False,Friday,4,False,False
+2021-10-16,11218.801183041518,Chocolate Milk,Orem,21.0,False,Saturday,4,False,False
+2021-10-17,13167.83193446417,Chocolate Milk,Provo,30.0,True,Sunday,4,False,False
+2021-10-18,7869.805003539336,Cougartail,Provo,25.0,False,Monday,4,False,False
+2021-10-19,7965.506517635879,Hotdog,Orem,23.0,False,Tuesday,4,False,False
+2021-10-20,9753.754937434804,Chocolate Milk,Provo,26.0,False,Wednesday,4,False,False
+2021-10-21,10345.992255328212,Hotdog,Provo,22.0,False,Thursday,4,False,False
+2021-10-22,7381.076929676272,Cougartail,Springville,30.0,True,Friday,4,False,False
+2021-10-23,15738.00394494436,Hotdog,Provo,30.0,True,Saturday,4,False,False
+2021-10-24,11064.236938261747,Hotdog,Springville,27.0,False,Sunday,4,False,False
+2021-10-25,6966.248115372628,Chocolate Milk,Springville,25.0,True,Monday,4,False,False
+2021-10-26,7217.7601566028325,Chocolate Milk,Provo,22.0,False,Tuesday,4,False,False
+2021-10-27,10872.515685001583,Cougartail,Springville,31.0,False,Wednesday,4,False,False
+2021-10-28,7321.8448753646735,Cougartail,Springville,29.0,True,Thursday,4,False,False
+2021-10-29,12429.254479463527,Chocolate Milk,Springville,31.0,False,Friday,4,False,False
+2021-10-30,13309.707473811131,Chocolate Milk,Orem,27.0,True,Saturday,4,False,False
+2021-10-31,10388.582055420762,Cougartail,Provo,27.0,False,Sunday,4,False,False
+2021-11-01,10207.841091163853,Hotdog,Orem,36.0,True,Monday,4,False,False
+2021-11-02,8473.434705626898,Cougartail,Springville,25.0,False,Tuesday,4,False,False
+2021-11-03,11680.818418883606,Cougartail,Springville,27.0,False,Wednesday,4,False,False
+2021-11-04,14879.18521217539,Hotdog,Orem,32.0,True,Thursday,4,False,False
+2021-11-05,10266.694738344571,Chocolate Milk,Springville,30.0,True,Friday,4,False,False
+2021-11-06,8804.712843204057,Chocolate Milk,Springville,18.0,False,Saturday,4,False,False
+2021-11-07,10095.999770629302,Chocolate Milk,Provo,20.0,False,Sunday,4,False,False
+2021-11-08,7188.676271466759,Hotdog,Springville,25.0,False,Monday,4,False,False
+2021-11-09,12058.303489469037,Hotdog,Orem,33.0,True,Tuesday,4,False,False
+2021-11-10,10763.000690329789,Hotdog,Provo,32.0,True,Wednesday,4,False,False
+2021-11-11,11229.833546902706,Chocolate Milk,Springville,31.0,True,Thursday,4,True,False
+2021-11-12,11127.537241135944,Cougartail,Provo,32.0,True,Friday,4,False,True
+2021-11-13,14911.009456508045,Hotdog,Orem,24.0,False,Saturday,4,False,False
+2021-11-14,12687.111173260575,Hotdog,Springville,32.0,True,Sunday,4,False,False
+2021-11-15,3711.6470071785043,Cougartail,Springville,24.0,True,Monday,4,False,False
+2021-11-16,11655.048274637438,Hotdog,Springville,33.0,True,Tuesday,4,False,False
+2021-11-17,10028.625625688155,Hotdog,Orem,26.0,False,Wednesday,4,False,False
+2021-11-18,10147.126540690442,Chocolate Milk,Provo,30.0,True,Thursday,4,False,False
+2021-11-19,7421.102358055415,Cougartail,Orem,19.0,False,Friday,4,False,False
+2021-11-20,6120.179083561506,Hotdog,Springville,22.0,False,Saturday,4,False,False
+2021-11-21,16089.178202065183,Chocolate Milk,Orem,34.0,True,Sunday,4,False,False
+2021-11-22,7041.480941308256,Chocolate Milk,Springville,32.0,True,Monday,4,False,False
+2021-11-23,8065.316357260976,Cougartail,Orem,23.0,True,Tuesday,4,False,False
+2021-11-24,8645.098419901607,Chocolate Milk,Springville,35.0,True,Wednesday,4,False,False
+2021-11-25,14910.383257248159,Cougartail,Orem,23.0,False,Thursday,4,True,False
+2021-11-26,12119.024553491789,Cougartail,Orem,29.0,True,Friday,4,False,True
+2021-11-27,15240.524876452393,Chocolate Milk,Provo,26.0,False,Saturday,4,False,False
+2021-11-28,11122.302715378202,Chocolate Milk,Orem,24.0,False,Sunday,4,False,False
+2021-11-29,9586.408115568964,Chocolate Milk,Orem,35.0,True,Monday,4,False,False
+2021-11-30,9061.151879133748,Hotdog,Springville,37.0,True,Tuesday,4,False,False
+2021-12-01,13043.543967344462,Chocolate Milk,Provo,30.0,False,Wednesday,4,False,False
+2021-12-02,17574.20938892993,Chocolate Milk,Orem,36.0,False,Thursday,4,False,False
+2021-12-03,9151.484443588433,Hotdog,Provo,27.0,False,Friday,4,False,False
+2021-12-04,14672.198351047968,Cougartail,Springville,29.0,False,Saturday,4,False,False
+2021-12-05,9398.983203939559,Cougartail,Provo,29.0,True,Sunday,4,False,False
+2021-12-06,4983.833168381485,Hotdog,Springville,23.0,False,Monday,4,False,False
+2021-12-07,10139.01549563495,Hotdog,Provo,31.0,True,Tuesday,4,False,False
+2021-12-08,7616.4818297959655,Hotdog,Springville,32.0,True,Wednesday,4,False,False
+2021-12-09,12148.78992093809,Chocolate Milk,Springville,28.0,False,Thursday,4,False,False
+2021-12-10,8559.737944474835,Hotdog,Provo,20.0,False,Friday,4,False,False
+2021-12-11,14130.915239959777,Chocolate Milk,Provo,31.0,True,Saturday,4,False,False
+2021-12-12,5365.590942108319,Cougartail,Springville,21.0,True,Sunday,4,False,False
+2021-12-13,11498.772349261573,Chocolate Milk,Springville,25.0,False,Monday,4,False,False
+2021-12-14,5839.5956349045,Cougartail,Springville,30.0,True,Tuesday,4,False,False
+2021-12-15,7985.720402536708,Chocolate Milk,Springville,25.0,True,Wednesday,4,False,False
+2021-12-16,9201.76387182692,Cougartail,Orem,30.0,True,Thursday,4,False,False
+2021-12-17,8269.163288528443,Chocolate Milk,Provo,28.0,True,Friday,4,False,False
+2021-12-18,9334.512093737074,Hotdog,Springville,21.0,False,Saturday,4,False,False
+2021-12-19,13264.220834073842,Chocolate Milk,Orem,30.0,False,Sunday,4,False,False
+2021-12-20,13318.157062062004,Hotdog,Springville,32.0,True,Monday,4,False,False
+2021-12-21,10746.538612141701,Cougartail,Springville,34.0,True,Tuesday,4,False,False
+2021-12-22,6187.728857775414,Hotdog,Orem,27.0,True,Wednesday,4,False,False
+2021-12-23,7921.063460767556,Cougartail,Springville,29.0,False,Thursday,4,False,False
+2021-12-24,16995.09061198033,Chocolate Milk,Orem,22.0,False,Friday,4,True,False
+2021-12-25,25476.12289695528,Cougartail,Orem,39.0,False,Saturday,4,False,True
+2021-12-26,14969.653596812479,Hotdog,Springville,37.0,True,Sunday,4,False,False
+2021-12-27,13935.149507786668,Hotdog,Orem,29.0,True,Monday,4,False,False
+2021-12-28,8619.498794993511,Cougartail,Orem,28.0,True,Tuesday,4,False,False
+2021-12-29,6694.25686065405,Hotdog,Springville,14.0,False,Wednesday,4,False,False
+2021-12-30,8539.262908229677,Chocolate Milk,Springville,34.0,True,Thursday,4,False,False
+2021-12-31,17551.130352347427,Cougartail,Springville,32.0,False,Friday,4,True,False
+2022-01-01,16453.776270080736,Chocolate Milk,Orem,33.0,True,Saturday,1,False,True
+2022-01-02,9247.83738226997,Chocolate Milk,Provo,27.0,True,Sunday,1,False,False
+2022-01-03,13878.232978303271,Chocolate Milk,Orem,27.0,False,Monday,1,False,False
+2022-01-04,11169.612770595959,Chocolate Milk,Orem,23.0,False,Tuesday,1,False,False
+2022-01-05,9864.205734301791,Hotdog,Orem,33.0,True,Wednesday,1,False,False
+2022-01-06,17036.071223844396,Hotdog,Orem,35.0,True,Thursday,1,False,False
+2022-01-07,13655.701914248484,Chocolate Milk,Springville,35.0,True,Friday,1,False,False
+2022-01-08,11014.698645583097,Hotdog,Orem,30.0,True,Saturday,1,False,False
+2022-01-09,8172.873735297393,Chocolate Milk,Orem,28.0,False,Sunday,1,False,False
+2022-01-10,8240.66696175191,Hotdog,Provo,24.0,False,Monday,1,False,False
+2022-01-11,7759.750910173808,Chocolate Milk,Orem,26.0,True,Tuesday,1,False,False
+2022-01-12,8599.708532382123,Hotdog,Orem,32.0,True,Wednesday,1,False,False
+2022-01-13,6568.110227860495,Chocolate Milk,Springville,28.0,True,Thursday,1,False,False
+2022-01-14,13642.387370260361,Chocolate Milk,Provo,38.0,True,Friday,1,False,False
+2022-01-15,17560.9547371952,Chocolate Milk,Provo,35.0,True,Saturday,1,False,False
+2022-01-16,10166.529103722603,Chocolate Milk,Orem,26.0,False,Sunday,1,False,False
+2022-01-17,11087.289003462818,Hotdog,Provo,23.0,False,Monday,1,True,False
+2022-01-18,9310.09474125975,Cougartail,Provo,27.0,False,Tuesday,1,False,True
+2022-01-19,8420.313183190689,Hotdog,Provo,35.0,True,Wednesday,1,False,False
+2022-01-20,8429.619229247923,Hotdog,Orem,27.0,True,Thursday,1,False,False
+2022-01-21,12209.536986991787,Cougartail,Provo,32.0,True,Friday,1,False,False
+2022-01-22,14287.519757243235,Chocolate Milk,Provo,27.0,False,Saturday,1,False,False
+2022-01-23,9187.198148468922,Cougartail,Provo,31.0,True,Sunday,1,False,False
+2022-01-24,7159.220697561261,Hotdog,Springville,32.0,True,Monday,1,False,False
+2022-01-25,8736.243375704033,Hotdog,Springville,34.0,True,Tuesday,1,False,False
+2022-01-26,9374.997457436131,Chocolate Milk,Orem,37.0,True,Wednesday,1,False,False
+2022-01-27,8263.639659157494,Cougartail,Springville,36.0,True,Thursday,1,False,False
+2022-01-28,7368.962726939119,Cougartail,Orem,27.0,True,Friday,1,False,False
+2022-01-29,12575.863040539958,Hotdog,Springville,29.0,False,Saturday,1,False,False
+2022-01-30,9143.907349293411,Cougartail,Orem,24.0,True,Sunday,1,False,False
+2022-01-31,10702.58408579895,Hotdog,Provo,28.0,False,Monday,1,False,False
+2022-02-01,8776.06000552626,Chocolate Milk,Provo,30.0,True,Tuesday,1,False,False
+2022-02-02,5674.947996393367,Cougartail,Provo,28.0,True,Wednesday,1,False,False
+2022-02-03,6041.341844158542,Chocolate Milk,Springville,27.0,True,Thursday,1,False,False
+2022-02-04,10292.560622203999,Chocolate Milk,Provo,35.0,True,Friday,1,False,False
+2022-02-05,12369.438858470097,Chocolate Milk,Provo,34.0,True,Saturday,1,False,False
+2022-02-06,12410.208544278137,Chocolate Milk,Orem,32.0,True,Sunday,1,False,False
+2022-02-07,4070.1183918475185,Hotdog,Provo,23.0,True,Monday,1,False,False
+2022-02-08,8269.834300721497,Cougartail,Provo,31.0,True,Tuesday,1,False,False
+2022-02-09,7126.95105568713,Cougartail,Springville,28.0,False,Wednesday,1,False,False
+2022-02-10,8770.536515722093,Chocolate Milk,Springville,36.0,True,Thursday,1,False,False
+2022-02-11,4812.802313409288,Cougartail,Springville,21.0,False,Friday,1,False,False
+2022-02-12,12489.78988589382,Chocolate Milk,Provo,27.0,True,Saturday,1,False,False
+2022-02-13,10237.44624784285,Cougartail,Orem,27.0,True,Sunday,1,False,False
+2022-02-14,13897.394940823733,Chocolate Milk,Springville,27.0,False,Monday,1,False,False
+2022-02-15,13379.833084196163,Chocolate Milk,Orem,35.0,True,Tuesday,1,False,False
+2022-02-16,4794.724434832462,Hotdog,Provo,18.0,False,Wednesday,1,False,False
+2022-02-17,4941.370938961616,Cougartail,Springville,29.0,True,Thursday,1,False,False
+2022-02-18,14679.948889169753,Hotdog,Orem,34.0,False,Friday,1,False,False
+2022-02-19,16237.129079616507,Hotdog,Orem,35.0,True,Saturday,1,False,False
+2022-02-20,12369.042833165833,Cougartail,Provo,27.0,False,Sunday,1,False,False
+2022-02-21,9654.583605702754,Hotdog,Springville,26.0,False,Monday,1,True,False
+2022-02-22,13227.253179730822,Chocolate Milk,Orem,32.0,True,Tuesday,1,False,True
+2022-02-23,8169.280985352684,Chocolate Milk,Orem,31.0,True,Wednesday,1,False,False
+2022-02-24,10671.941693823457,Cougartail,Orem,30.0,False,Thursday,1,False,False
+2022-02-25,3151.1761648186202,Chocolate Milk,Springville,11.0,False,Friday,1,False,False
+2022-02-26,11326.85838838277,Cougartail,Orem,24.0,True,Saturday,1,False,False
+2022-02-27,6864.492539595252,Hotdog,Provo,26.0,True,Sunday,1,False,False
+2022-02-28,11468.554378292276,Chocolate Milk,Provo,33.0,True,Monday,1,False,False
+2022-03-01,6808.113152302916,Hotdog,Springville,23.0,False,Tuesday,1,False,False
+2022-03-02,7308.684764004328,Chocolate Milk,Provo,25.0,True,Wednesday,1,False,False
+2022-03-03,5618.591868483652,Chocolate Milk,Provo,29.0,True,Thursday,1,False,False
+2022-03-04,6219.630043161607,Cougartail,Orem,23.0,True,Friday,1,False,False
+2022-03-05,8114.3094772000595,Cougartail,Springville,33.0,True,Saturday,1,False,False
+2022-03-06,8702.787606636393,Cougartail,Provo,28.0,False,Sunday,1,False,False
+2022-03-07,10484.439733947844,Cougartail,Springville,39.0,True,Monday,1,False,False
+2022-03-08,13496.46503632739,Hotdog,Orem,27.0,True,Tuesday,1,False,False
+2022-03-09,10503.872757247513,Cougartail,Springville,27.0,False,Wednesday,1,False,False
+2022-03-10,11699.961866312584,Hotdog,Orem,34.0,True,Thursday,1,False,False
